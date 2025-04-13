@@ -1,3 +1,4 @@
+"use client"
 import { HeroSection } from "@/components/home/HeroSection";
 import { FeaturedSection } from "@/components/home/FeaturedSection";
 import { CalculatePriceSection } from "@/components/home/CalculatePriceSection";
